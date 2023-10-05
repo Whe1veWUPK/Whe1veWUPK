@@ -4,7 +4,7 @@
 - 👀 I’m currently interested in Computer Software and Theory & Computer Architecture.
 - 🌱 I’m currently major in Computer Science and Technology in SouthEast University.
 - 📖 I may share my labworks and some algorithm questions' solutions(from maybe [Codeforces](https://codeforces.com/) or [LeetCode](https://leetcode.cn/)).
-- 📫 zhangruijin666888@gmail.com
+- 📫 Gmail: zhangruijin666888@gmail.com
 # Most Used Language
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Whe1veWUPK&layout=compact&theme=synthwave)
 
