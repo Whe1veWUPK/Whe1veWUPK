@@ -1,7 +1,6 @@
 ![Alt text](https://github.com/Whe1veWUPK/Whe1veWUPK/blob/main/Snow.png)
 # About Me
 - 👋 Hi, I’m Whe1ve, a undergrad currently from SouthEast University.
-- 👀 I’m currently interested in Computer Software and Theory & Computer Architecture.
 - 🌱 I’m currently major in Computer Science and Technology in SouthEast University.
 - 📖 I may share my labworks and some algorithm questions' solutions.
 - 📫 Gmail: zhangruijin666888@gmail.com
